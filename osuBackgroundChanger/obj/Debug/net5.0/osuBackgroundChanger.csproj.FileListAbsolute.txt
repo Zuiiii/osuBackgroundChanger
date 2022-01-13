@@ -1,0 +1,16 @@
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\bin\Debug\net5.0\osuBackgroundChanger.exe
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\bin\Debug\net5.0\osuBackgroundChanger.deps.json
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\bin\Debug\net5.0\osuBackgroundChanger.runtimeconfig.json
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\bin\Debug\net5.0\osuBackgroundChanger.runtimeconfig.dev.json
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\bin\Debug\net5.0\osuBackgroundChanger.dll
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\bin\Debug\net5.0\ref\osuBackgroundChanger.dll
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\bin\Debug\net5.0\osuBackgroundChanger.pdb
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\osuBackgroundChanger.csproj.AssemblyReference.cache
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\osuBackgroundChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\osuBackgroundChanger.AssemblyInfoInputs.cache
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\osuBackgroundChanger.AssemblyInfo.cs
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\osuBackgroundChanger.csproj.CoreCompileInputs.cache
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\osuBackgroundChanger.dll
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\ref\osuBackgroundChanger.dll
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\osuBackgroundChanger.pdb
+C:\Users\Brook\source\repos\osuBackgroundChanger\osuBackgroundChanger\obj\Debug\net5.0\osuBackgroundChanger.genruntimeconfig.cache
